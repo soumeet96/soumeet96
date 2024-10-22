@@ -55,17 +55,19 @@
 
 ### 🛠 Languages and Tools
 <p align="left">
+<a href="https://www.github.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="git" width="50" height="50"/></a>
+<a href="https://bitbucket.org/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bitbucket-icon.png" alt="bitbucket" width="50" height="50"/></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/></a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/></a>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/></a>
 <a href="https://newrelic.com" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/N/new-relic-logo-E7CC1E9143-seeklogo.com.png" alt="newrelic" width="50" height="50"/></a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/376353/terraform.svg" alt="terraform" width="50" height="50"/></a>
-<a href="https://www.passbolt.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/passbolt.svg" alt="terraform" width="50" height="50"/></a>
-<a href="https://openvpn.net/" target="_blank" rel="noreferrer"><img src="https://www.cdnlogo.com/logos/o/68/openvpn.svg" alt="terraform" width="50" height="50"/></a>
-<a href="https://www.hetzner.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331425/hetzner.svg" alt="terraform" width="50" height="50"/></a>
-<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://seekvectors.com/files/download/CloudFlare-01.png" alt="terraform" width="50" height="50"/></a>
-<a href="https://www.sonarsource.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354365/sonarqube.svg" alt="terraform" width="50" height="50"/></a>
+<a href="https://www.passbolt.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/passbolt.svg" alt="passbolt" width="50" height="50"/></a>
+<a href="https://openvpn.net/" target="_blank" rel="noreferrer"><img src="https://www.cdnlogo.com/logos/o/68/openvpn.svg" alt="openvpn" width="50" height="50"/></a>
+<a href="https://www.hetzner.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331425/hetzner.svg" alt="hetzner" width="50" height="50"/></a>
+<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://seekvectors.com/files/download/CloudFlare-01.png" alt="cloudflare" width="50" height="50"/></a>
+<a href="https://www.sonarsource.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354365/sonarqube.svg" alt="sonar" width="50" height="50"/></a>
 </p>
 
 ### 📊 GitHub Stats
