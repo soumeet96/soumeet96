@@ -17,11 +17,13 @@
   
 - 💬 Ask me about **DevOps, Cloud Computing (AWS, GCP, Hetzner), Kubernetes, Linux System Administration, Git, Docker, Terraform, Jenkins, Bash Scripting, Web Services, MongoDB, Elasticsearch, New Relic***
   
-- 📫 How to reach me **aman.pathk23@gmail.com**
+- 📫 How to reach me **soumeet.sa@gmail.com**
 
 - ⚡ Fun fact **I am GAMER**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/asoumeet/)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/soumeet29)
 
 ### 💡 Expertise
 - **Cloud Platforms:** AWS, GCP, Hetzner
@@ -59,6 +61,11 @@
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
 <a href="https://newrelic.com" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/N/new-relic-logo-E7CC1E9143-seeklogo.com.png" alt="newrelic" width="40" height="40"/></a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/376353/terraform.svg" alt="terraform" width="40" height="40"/></a>
+<a href="https://www.passbolt.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/passbolt.svg" alt="terraform" width="40" height="40"/></a>
+<a href="https://openvpn.net/" target="_blank" rel="noreferrer"><img src="https://www.cdnlogo.com/logos/o/68/openvpn.svg" alt="terraform" width="40" height="40"/></a>
+<a href="https://www.hetzner.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331425/hetzner.svg" alt="terraform" width="40" height="40"/></a>
+<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://seekvectors.com/files/download/CloudFlare-01.png" alt="terraform" width="40" height="40"/></a>
+<a href="https://www.sonarsource.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354365/sonarqube.svg" alt="terraform" width="40" height="40"/></a>
 </p>
 
 ### 📊 GitHub Stats
