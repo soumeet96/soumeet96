@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
 
-<h1 align="center">Hi 👋, I'm Soumeet Acharya from Odisha!!</h1>
+<h1 align="center">Hello Everyone 👋, I'm Soumeet Acharya</h1>
 
 <h3 align="center">Currently a DevOps Engineer specializing in cloud infrastructure and automation</h3>
 
