@@ -9,8 +9,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumeet96&label=Profile%20views&color=0e75b6&style=flat" alt="soumeet96" /> </p>
 
 ### 🚀 Current Focus
-- 🔭 Working on [Multi-Tier Architecture using SSL](https://github.com/soumeet96/Multi-Tier-With-Database)
-
 - 🌱 Learning **Kubernetes** and also **Go**. 
   
 - 👯 Looking to collaborate on DevOps and Cloud Infrastructure projects.
