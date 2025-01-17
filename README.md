@@ -11,7 +11,7 @@
 ### 🚀 Current Focus
 - 🔭 Working on [Multi-Tier Architecture using SSL](https://github.com/soumeet96/Multi-Tier-With-Database)
 
-- 🌱 Learning **Kubernetes**
+- 🌱 Learning **Kubernetes** and also **Go**. 
   
 - 👯 Looking to collaborate on DevOps and Cloud Infrastructure projects.
   
@@ -44,7 +44,7 @@
 #### Mamenta Inc.
 - Served as a Devops Engineer, managing the Infrastructure being used for highly avaiable marketplaces.
 - Technologies used aer Amazon ECS, MongoDB, Amazon SQS, Passbolt, OpenVPN, Vanta, Astra.
-- Built a hihly available cluster on Amazon ECS and performed Infrastructure Hardening and secured ISO 27001 and SOC Type 2 Certification.
+- Built a highly available cluster on Amazon ECS and performed Infrastructure Hardening and secured ISO 27001 and SOC Type 2 Certification.
 
 ### 🤝 Connect with me
 <p align="left">
