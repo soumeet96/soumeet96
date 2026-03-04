@@ -140,7 +140,7 @@ Designed and deployed a multi-tier application with database integration using *
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/></a>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/></a>
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" width="50" height="50"/></a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/hashicorp_terraform/hashicorp_terraform-icon.svg" alt="Terraform" width="50" height="50"/></a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="50" height="50"/></a>
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/ansible/EE0000" alt="Ansible" width="50" height="50"/></a>
 <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana" width="50" height="50"/></a>
 <a href="https://prometheus.io" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus" width="50" height="50"/></a>
@@ -148,14 +148,18 @@ Designed and deployed a multi-tier application with database integration using *
 <a href="https://www.elastic.co" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/elasticsearch/005571" alt="Elasticsearch" width="50" height="50"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/></a>
 <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/redis/DC382D" alt="Redis" width="50" height="50"/></a>
-<a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/vault/FFEC6E" alt="HashiCorp Vault" width="50" height="50"/></a>
+<a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/vault" alt="HashiCorp Vault" width="50" height="50"/></a>
 <a href="https://www.passbolt.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/passbolt.svg" alt="Passbolt" width="50" height="50"/></a>
 <a href="https://openvpn.net/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openvpn/EA7E20" alt="OpenVPN" width="50" height="50"/></a>
 <a href="https://www.hetzner.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331425/hetzner.svg" alt="Hetzner" width="50" height="50"/></a>
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare" width="50" height="50"/></a>
-<a href="https://www.sonarsource.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" alt="SonarQube" width="50" height="50"/></a>
+<a href="https://www.sonarsource.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="50" height="50"/></a>
 <a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
+<a href="https://supabase.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/supabase" alt="Supabase" width="50" height="50"/></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/jira" alt="Jira" width="50" height="50"/></a>
+<a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/confluence" alt="Confluence" width="50" height="50"/></a>
+<a href="https://ubuntu.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/ubuntu" alt="Ubuntu" width="50" height="50"/></a>
 </p>
 
 ---
@@ -163,7 +167,7 @@ Designed and deployed a multi-tier application with database integration using *
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soumeet96&theme=tokyonight&column=6&no-frame=true" alt="soumeet96 trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumeet96&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
