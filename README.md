@@ -1,78 +1,187 @@
-![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=800&lines=Hey+there!+%F0%9F%91%8B+I'm+Soumeet+Acharya;DevOps+Engineer+%7C+4%2B+Years+of+Experience+%F0%9F%9A%80;AWS+%7C+GCP+%7C+Kubernetes+%7C+Terraform;ISO+27001+%26+SOC+2+Certified+Infrastructure" alt="Typing SVG" />
+</div>
 
-<h1 align="center">Hello Everyone 👋, I'm Soumeet Acharya</h1>
+<br/>
 
-<h3 align="center">Currently a DevOps Engineer specializing in cloud infrastructure and automation</h3>
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
-<img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=soumeet96&label=Profile%20views&color=0e75b6&style=flat" alt="soumeet96" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumeet96&label=Profile%20views&color=0e75b6&style=flat" alt="soumeet96" /> </p>
+### 👨‍💻 About Me
+
+DevOps Engineer with **4+ years of experience** automating cloud infrastructure, optimizing AWS & GCP deployments, and ensuring **ISO 27001 & SOC 2** compliance. Improved deployment efficiency by **40%** and maintained **99.9% uptime** across production workloads. Passionate about CI/CD, containerization, and AI-assisted engineering workflows.
+
+📍 Bangalore, Karnataka, India &nbsp;|&nbsp; 🌐 [soumeet.in](https://soumeet.in) &nbsp;|&nbsp; 📄 [LinkedIn](https://www.linkedin.com/in/asoumeet/)
+
+---
 
 ### 🚀 Current Focus
-- 🌱 Learning **Kubernetes** and also **Go**. 
-  
-- 👯 Looking to collaborate on DevOps and Cloud Infrastructure projects.
-  
-- 💬 Ask me about **DevOps, Cloud Computing (AWS, GCP, Hetzner), Kubernetes, Linux System Administration, Git, Docker, Terraform, Jenkins, Bash Scripting, Web Services, MongoDB, Elasticsearch, New Relic***
-  
-- 📫 How to reach me **soumeet.sa@gmail.com**
 
-- ⚡ Fun fact **I am GAMER**
+- 🌱 Deepening expertise in **Go** and **AI-assisted DevOps** workflows
+- 👯 Open to collaborating on **DevOps**, **Cloud Infrastructure**, and **Platform Engineering** projects
+- 💬 Ask me about **AWS · GCP · Kubernetes · Docker · Terraform · Ansible · Jenkins · GitHub Actions · ELK · New Relic · Grafana · Bash · Python**
+- 📫 Reach me at **soumeet.sa@gmail.com**
+- ⚡ Fun fact: **I'm a GAMER 🎮**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/asoumeet/)
+<br/>
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/soumeet29)
+
+---
 
 ### 💡 Expertise
-- **Cloud Platforms:** AWS, GCP, Hetzner
-- **Infrastructure as Code:** Terraform
-- **Containerization:** Docker, Kubernetes
-- **CI/CD:** Jenkins
-- **Monitoring:** Cloudwatch, New Relic, ELK
-- **Scripting:** Bash
-- **Version Control:** Git, GitHub, BitBucket
 
-### 🎯 Featured Projects
+| Domain | Technologies |
+|--------|-------------|
+| ☁️ **Cloud Platforms** | AWS (EC2, ECS, EBS, ECR, IAM, VPC, GuardDuty, WAF, Inspector) · GCP (Cloud Run, Cloud Functions, Compute Engine, Vertex AI) · Hetzner |
+| 🏗️ **Infrastructure as Code** | Terraform · Ansible |
+| 🐳 **Containerization** | Docker · Docker Swarm · Kubernetes (Helm, Ingress, Service Mesh) |
+| 🔄 **CI/CD** | Jenkins · GitHub Actions |
+| 📊 **Monitoring & Logging** | CloudWatch · New Relic · ELK Stack · Prometheus · Grafana · Zenduty · LogDNA |
+| 🗄️ **Databases** | MongoDB · Elasticsearch · Redis |
+| 🔐 **Security & Secrets** | HashiCorp Vault · Passbolt · Teleport · OpenVPN · Vanta |
+| 📜 **Scripting** | Bash · Python (boto3) |
+| 🔀 **Version Control** | Git · GitHub · Bitbucket |
+| 🛠️ **Other Tools** | Rundeck · SonarQube · Jira · Confluence · Nginx |
 
-#### IntentX (Now Ad.Net)
-- Served as a Devops Engineer, managing the Infrastructure being used for highly avaiable Storefront Clients.
-- Technologies used are Elasticsearch, New Relic, Amazon ECS, EC2, Cloudwatch, Passbolt, OpenVPN.
-- Had setup and maintained a highly available cluster for both Frontend and Backend applications with the Elasticsearch cluster.
+---
 
-#### Mamenta Inc.
-- Served as a Devops Engineer, managing the Infrastructure being used for highly avaiable marketplaces.
-- Technologies used aer Amazon ECS, MongoDB, Amazon SQS, Passbolt, OpenVPN, Vanta, Astra.
-- Built a highly available cluster on Amazon ECS and performed Infrastructure Hardening and secured ISO 27001 and SOC Type 2 Certification.
+### 🏢 Work Experience
+
+<details>
+<summary><b>⚡ Thena.ai — DevOps Engineer &nbsp;·&nbsp; May 2025 – Jan 2026</b></summary>
+<br/>
+
+- Streamlined monorepo-based deployments for microservices, accelerating release cycles
+- Built **GitHub Actions CI/CD pipelines**, increasing deployment frequency by **3×** and reducing manual effort
+- Built & maintained containerized microservices on **AWS ECS** (Fargate & EC2), improving reliability
+- Implemented **HashiCorp Vault** for secure secrets management & automated rotation
+- Migrated **MongoDB** from Atlas to self-hosted EC2 using `mongosync`, improving performance & reducing DB costs
+- Developed **Grafana dashboards** & **Zenduty** alerts, cutting incident response time
+- Resolved Vanta-flagged issues, ensuring **100% SOC 2 compliance**
+- Performed cloud cost analysis & optimization, lowering monthly infra spend
+- Leveraged AI tools (Warp CLI, Claude) for debugging & automation
+
+</details>
+
+<details>
+<summary><b>🏗️ Numentica Software Services — Senior DevOps Engineer &nbsp;·&nbsp; July 2020 – Aug 2024</b></summary>
+<br/>
+
+- Orchestrated **Kubernetes** workloads with Helm, Ingress, and Service Mesh — achieving **99.9% uptime** and cutting setup time by **40%**
+- Automated CI/CD using **Docker, Jenkins**, and Maven/Gradle, speeding deployments by **40%**
+- Deployed & optimized **Elasticsearch** clusters, reducing latency by **30%**
+- Implemented auto-scaling & resource tuning in Kubernetes, reducing cloud costs by **15%**
+- Created **Ansible** playbooks for consistent server setup, cutting manual provisioning time by **60%**
+- Centralized logging with ELK, New Relic, CloudWatch, and LogDNA; improved monitoring with Prometheus & Grafana
+- Integrated **SonarQube** with Jenkins, improving code quality by **15%**
+- Ensured **ISO 27001 & SOC 2** compliance through vulnerability remediation and audits
+- Configured **Nginx** for SSL termination and security hardening
+
+</details>
+
+---
+
+### 🛠 Personal Projects
+
+<details>
+<summary><b>✈️ Wanderlust — Scalable MERN Stack Deployment</b></summary>
+<br/>
+
+Deployed a MERN stack travel application on **Kubernetes**, managing CI/CD with **Jenkins** and automating infrastructure with **Terraform**. Configured **Nginx** as a reverse proxy and implemented monitoring with **Prometheus & Grafana**.
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/soumeet96)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/asoumeet/)
+
+</details>
+
+<details>
+<summary><b>🏛️ Multi-Tier Architecture Deployment</b></summary>
+<br/>
+
+Designed and deployed a multi-tier application with database integration using **Terraform**, **Kubernetes**, and **AWS** services. Automated CI/CD with **Jenkins** and implemented load balancing & auto-scaling for high availability.
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/soumeet96)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/asoumeet/)
+
+</details>
+
+---
+
+### 🏆 Certifications & Achievements
+
+- 🥇 **HashiCorp Certified: Terraform Associate** (HCTA0-003) — *Sept 2024*
+- 🔒 **ISO 27001** Certification — *2022*
+- 🛡️ **SOC 2 Type 1** Certification — *2023*
+
+---
 
 ### 🤝 Connect with me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/asoumeet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YOUR_PROFILE" height="30" width="40" /></a>
-<a href="https://www.facebook.com/someetachrya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/someetachrya" height="30" width="40" /></a>
-<a href="https://www.instagram.com/soumeet.a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/soumeet.a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/asoumeet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.facebook.com/someetachrya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://www.instagram.com/soumeet.a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
+
+---
 
 ### 🛠 Languages and Tools
+
 <p align="left">
-<a href="https://www.github.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="git" width="50" height="50"/></a>
-<a href="https://bitbucket.org/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bitbucket-icon.png" alt="bitbucket" width="50" height="50"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/></a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/></a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/></a>
-<a href="https://newrelic.com" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/N/new-relic-logo-E7CC1E9143-seeklogo.com.png" alt="newrelic" width="50" height="50"/></a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/376353/terraform.svg" alt="terraform" width="50" height="50"/></a>
-<a href="https://www.passbolt.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/passbolt.svg" alt="passbolt" width="50" height="50"/></a>
-<a href="https://openvpn.net/" target="_blank" rel="noreferrer"><img src="https://www.cdnlogo.com/logos/o/68/openvpn.svg" alt="openvpn" width="50" height="50"/></a>
-<a href="https://www.hetzner.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331425/hetzner.svg" alt="hetzner" width="50" height="50"/></a>
-<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://seekvectors.com/files/download/CloudFlare-01.png" alt="cloudflare" width="50" height="50"/></a>
-<a href="https://www.sonarsource.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354365/sonarqube.svg" alt="sonar" width="50" height="50"/></a>
+<a href="https://www.github.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50" height="50"/></a>
+<a href="https://bitbucket.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/bitbucket/0052CC" alt="Bitbucket" width="50" height="50"/></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/></a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="50" height="50"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/></a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/></a>
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/></a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" width="50" height="50"/></a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/hashicorp_terraform/hashicorp_terraform-icon.svg" alt="Terraform" width="50" height="50"/></a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/ansible/EE0000" alt="Ansible" width="50" height="50"/></a>
+<a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana" width="50" height="50"/></a>
+<a href="https://prometheus.io" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus" width="50" height="50"/></a>
+<a href="https://newrelic.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/newrelic/008C99" alt="New Relic" width="50" height="50"/></a>
+<a href="https://www.elastic.co" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/elasticsearch/005571" alt="Elasticsearch" width="50" height="50"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/></a>
+<a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/redis/DC382D" alt="Redis" width="50" height="50"/></a>
+<a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/vault/FFEC6E" alt="HashiCorp Vault" width="50" height="50"/></a>
+<a href="https://www.passbolt.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/passbolt.svg" alt="Passbolt" width="50" height="50"/></a>
+<a href="https://openvpn.net/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openvpn/EA7E20" alt="OpenVPN" width="50" height="50"/></a>
+<a href="https://www.hetzner.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331425/hetzner.svg" alt="Hetzner" width="50" height="50"/></a>
+<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare" width="50" height="50"/></a>
+<a href="https://www.sonarsource.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" alt="SonarQube" width="50" height="50"/></a>
+<a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
 </p>
 
+---
+
 ### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumeet96&show_icons=true&locale=en&layout=compact" alt="soumeet96" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumeet96&show_icons=true&locale=en" alt="soumeet96" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=soumeet96&theme=tokyonight&column=6&no-frame=true" alt="soumeet96 trophies" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumeet96&" alt="soumeet96" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soumeet96&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/soumeet29)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soumeet96&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=soumeet96&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/soumeet29">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" />
+  </a>
+</p>
